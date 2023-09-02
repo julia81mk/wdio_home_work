@@ -95,7 +95,7 @@ export const config = {
     //
     capabilities: [{
         browserName: 'chrome'
-    }],
+    }, { browserName: 'firefox' }],
 
     //
     // ===================
@@ -202,19 +202,19 @@ export const config = {
      * @param {Array.<Object>} capabilities list of capabilities details
      */
     // onPrepare: function (config, capabilities) {
-        onPrepare: function (config, capabilities) {
-            reportAggregator = new ReportAggregator(
-                {
-                    outputDir: './reports/html-reports/',
-                    filename: process.env.TEST_BROWSER + '-master-report.html',
-                    reportTitle: 'Micro-Magic Web Test Report',
-                    browserName: process.env.TEST_BROWSER ? process.env.TEST_BROWSER : 'unspecified',
-                    showInBrowser: true,
-                    LOG: logger
-                });
-    
-            reportAggregator.clean();
-        },
+    onPrepare: function (config, capabilities) {
+        reportAggregator = new ReportAggregator(
+            {
+                outputDir: './reports/html-reports/',
+                filename: capabilities.browserName + '-master-report.html',
+                reportTitle: 'Micro-Magic Web Test Report',
+                browserName: capabilities.browserName,
+                showInBrowser: true,
+                LOG: logger
+            });
+
+        reportAggregator.clean();
+    },
     // },
     /**
      * Gets executed before a worker process is spawned and can be used to initialise specific service
