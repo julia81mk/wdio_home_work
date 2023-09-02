@@ -1998,3 +1998,285 @@
 [2023-08-31T21:24:34.296] [INFO] default - copyied css : C:\Work\Automation JS My course\WDIO_test\node_modules\wdio-html-nice-reporter\css\ to C:\Work\Automation JS My course\WDIO_test\reports\html-reports\
 [2023-08-31T21:24:34.316] [INFO] default - browser launched
 [2023-08-31T21:24:34.317] [INFO] default - Report Aggregation completed
+[2023-09-02T17:08:32.168] [INFO] default - onRunnerStart: 0-2
+[2023-09-02T17:08:32.174] [INFO] default - onHookStart: 0-2:hook-0-0
+[2023-09-02T17:08:32.176] [INFO] default - onHookEnd: 0-2:hook-0-0
+[2023-09-02T17:08:32.177] [INFO] default - onSuiteStart: 0-2:suite-0-0
+[2023-09-02T17:08:32.176] [INFO] default - onRunnerStart: 0-1
+[2023-09-02T17:08:32.178] [INFO] default - onTestStart: 0-2:test-00-0
+[2023-09-02T17:08:32.194] [INFO] default - onHookStart: 0-1:hook-0-0
+[2023-09-02T17:08:32.200] [INFO] default - onHookEnd: 0-1:hook-0-0
+[2023-09-02T17:08:32.202] [INFO] default - onSuiteStart: 0-1:suite-0-0
+[2023-09-02T17:08:32.204] [INFO] default - onTestStart: 0-1:test-00-0
+[2023-09-02T17:08:32.357] [INFO] default - onRunnerStart: 0-0
+[2023-09-02T17:08:32.364] [INFO] default - onHookStart: 0-0:hook-0-0
+[2023-09-02T17:08:32.366] [INFO] default - onHookEnd: 0-0:hook-0-0
+[2023-09-02T17:08:32.368] [INFO] default - onSuiteStart: 0-0:suite-0-0
+[2023-09-02T17:08:32.369] [INFO] default - onTestStart: 0-0:test-00-0
+[2023-09-02T17:08:34.624] [INFO] default - onTestPass: 0-0:test-00-0
+[2023-09-02T17:08:34.625] [INFO] default - onTestEnd: 0-0:test-00-0
+[2023-09-02T17:08:34.632] [INFO] default - onTestStart: 0-0:test-00-1
+[2023-09-02T17:08:34.976] [INFO] default - onTestPass: 0-1:test-00-0
+[2023-09-02T17:08:34.976] [INFO] default - onTestEnd: 0-1:test-00-0
+[2023-09-02T17:08:34.978] [INFO] default - onTestStart: 0-1:test-00-1
+[2023-09-02T17:08:35.965] [INFO] default - onTestPass: 0-2:test-00-0
+[2023-09-02T17:08:35.966] [INFO] default - onTestEnd: 0-2:test-00-0
+[2023-09-02T17:08:35.972] [INFO] default - onTestStart: 0-2:test-00-1
+[2023-09-02T17:08:36.506] [INFO] default - onRunnerStart: 1-1
+[2023-09-02T17:08:36.511] [INFO] default - onHookStart: 1-1:hook-0-0
+[2023-09-02T17:08:36.513] [INFO] default - onHookEnd: 1-1:hook-0-0
+[2023-09-02T17:08:36.514] [INFO] default - onSuiteStart: 1-1:suite-0-0
+[2023-09-02T17:08:36.515] [INFO] default - onTestStart: 1-1:test-00-0
+[2023-09-02T17:08:36.784] [INFO] default - onRunnerStart: 1-0
+[2023-09-02T17:08:36.790] [INFO] default - onHookStart: 1-0:hook-0-0
+[2023-09-02T17:08:36.792] [INFO] default - onHookEnd: 1-0:hook-0-0
+[2023-09-02T17:08:36.792] [INFO] default - onSuiteStart: 1-0:suite-0-0
+[2023-09-02T17:08:36.793] [INFO] default - onTestStart: 1-0:test-00-0
+[2023-09-02T17:08:37.085] [INFO] default - onRunnerStart: 1-2
+[2023-09-02T17:08:37.094] [INFO] default - onHookStart: 1-2:hook-0-0
+[2023-09-02T17:08:37.096] [INFO] default - onHookEnd: 1-2:hook-0-0
+[2023-09-02T17:08:37.098] [INFO] default - onSuiteStart: 1-2:suite-0-0
+[2023-09-02T17:08:37.099] [INFO] default - onTestStart: 1-2:test-00-0
+[2023-09-02T17:08:38.609] [INFO] default - onTestPass: 1-1:test-00-0
+[2023-09-02T17:08:38.610] [INFO] default - onTestEnd: 1-1:test-00-0
+[2023-09-02T17:08:38.611] [INFO] default - onTestStart: 1-1:test-00-1
+[2023-09-02T17:08:38.780] [INFO] default - onTestPass: 0-0:test-00-1
+[2023-09-02T17:08:38.781] [INFO] default - onTestEnd: 0-0:test-00-1
+[2023-09-02T17:08:38.782] [INFO] default - onSuiteEnd: 0-0:suite-0-0
+[2023-09-02T17:08:38.783] [INFO] default - onHookStart: 0-0:hook-0-1
+[2023-09-02T17:08:38.783] [INFO] default - onHookEnd: 0-0:hook-0-1
+[2023-09-02T17:08:38.841] [INFO] default - onTestPass: 1-0:test-00-0
+[2023-09-02T17:08:38.842] [INFO] default - onTestEnd: 1-0:test-00-0
+[2023-09-02T17:08:38.844] [INFO] default - onTestStart: 1-0:test-00-1
+[2023-09-02T17:08:39.051] [INFO] default - onTestPass: 0-2:test-00-1
+[2023-09-02T17:08:39.053] [INFO] default - onTestEnd: 0-2:test-00-1
+[2023-09-02T17:08:39.055] [INFO] default - onSuiteEnd: 0-2:suite-0-0
+[2023-09-02T17:08:39.056] [INFO] default - onHookStart: 0-2:hook-0-1
+[2023-09-02T17:08:39.056] [INFO] default - onHookEnd: 0-2:hook-0-1
+[2023-09-02T17:08:39.082] [INFO] default - onTestPass: 0-1:test-00-1
+[2023-09-02T17:08:39.082] [INFO] default - onTestEnd: 0-1:test-00-1
+[2023-09-02T17:08:39.084] [INFO] default - onSuiteEnd: 0-1:suite-0-0
+[2023-09-02T17:08:39.086] [INFO] default - onHookStart: 0-1:hook-0-1
+[2023-09-02T17:08:39.086] [INFO] default - onHookEnd: 0-1:hook-0-1
+[2023-09-02T17:08:39.104] [INFO] default - onRunnerEnd: 0-0
+[2023-09-02T17:08:39.105] [INFO] default - Report Generation started
+[2023-09-02T17:08:39.106] [INFO] default - Included metrics for suite: 0-0 suite-0-0
+[2023-09-02T17:08:39.109] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:08:39.112] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-0.json
+[2023-09-02T17:08:39.195] [INFO] default - onRunnerEnd: 0-1
+[2023-09-02T17:08:39.196] [INFO] default - Report Generation started
+[2023-09-02T17:08:39.197] [INFO] default - Included metrics for suite: 0-1 suite-0-0
+[2023-09-02T17:08:39.199] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:08:39.200] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-1.json
+[2023-09-02T17:08:39.216] [INFO] default - onRunnerEnd: 0-2
+[2023-09-02T17:08:39.217] [INFO] default - Report Generation started
+[2023-09-02T17:08:39.218] [INFO] default - Included metrics for suite: 0-2 suite-0-0
+[2023-09-02T17:08:39.222] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:08:39.223] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-2.json
+[2023-09-02T17:08:39.271] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-0.json
+[2023-09-02T17:08:39.279] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-2.json
+[2023-09-02T17:08:39.279] [INFO] default - Json Generation Completed
+[2023-09-02T17:08:39.280] [INFO] default - Report Generation completed
+[2023-09-02T17:08:39.271] [INFO] default - Json Generation Completed
+[2023-09-02T17:08:39.273] [INFO] default - Report Generation completed
+[2023-09-02T17:08:39.321] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-1.json
+[2023-09-02T17:08:39.938] [INFO] default - onTestPass: 1-2:test-00-0
+[2023-09-02T17:08:39.938] [INFO] default - onTestEnd: 1-2:test-00-0
+[2023-09-02T17:08:39.939] [INFO] default - onTestStart: 1-2:test-00-1
+[2023-09-02T17:08:41.512] [INFO] default - onTestPass: 1-1:test-00-1
+[2023-09-02T17:08:41.513] [INFO] default - onTestEnd: 1-1:test-00-1
+[2023-09-02T17:08:41.515] [INFO] default - onSuiteEnd: 1-1:suite-0-0
+[2023-09-02T17:08:41.516] [INFO] default - onHookStart: 1-1:hook-0-1
+[2023-09-02T17:08:41.518] [INFO] default - onHookEnd: 1-1:hook-0-1
+[2023-09-02T17:08:41.778] [INFO] default - onTestPass: 1-0:test-00-1
+[2023-09-02T17:08:41.778] [INFO] default - onTestEnd: 1-0:test-00-1
+[2023-09-02T17:08:41.779] [INFO] default - onSuiteEnd: 1-0:suite-0-0
+[2023-09-02T17:08:41.779] [INFO] default - onHookStart: 1-0:hook-0-1
+[2023-09-02T17:08:41.779] [INFO] default - onHookEnd: 1-0:hook-0-1
+[2023-09-02T17:08:42.195] [INFO] default - onRunnerEnd: 1-1
+[2023-09-02T17:08:42.196] [INFO] default - Report Generation started
+[2023-09-02T17:08:42.197] [INFO] default - Included metrics for suite: 1-1 suite-0-0
+[2023-09-02T17:08:42.198] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:08:42.199] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-1.json
+[2023-09-02T17:08:42.251] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-1.json
+[2023-09-02T17:08:42.252] [INFO] default - Json Generation Completed
+[2023-09-02T17:08:42.253] [INFO] default - Report Generation completed
+[2023-09-02T17:08:42.559] [INFO] default - onRunnerEnd: 1-0
+[2023-09-02T17:08:42.559] [INFO] default - Report Generation started
+[2023-09-02T17:08:42.560] [INFO] default - Included metrics for suite: 1-0 suite-0-0
+[2023-09-02T17:08:42.560] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:08:42.561] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-0.json
+[2023-09-02T17:08:42.582] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-0.json
+[2023-09-02T17:08:42.582] [INFO] default - Json Generation Completed
+[2023-09-02T17:08:42.582] [INFO] default - Report Generation completed
+[2023-09-02T17:08:42.753] [INFO] default - onTestPass: 1-2:test-00-1
+[2023-09-02T17:08:42.753] [INFO] default - onTestEnd: 1-2:test-00-1
+[2023-09-02T17:08:42.754] [INFO] default - onSuiteEnd: 1-2:suite-0-0
+[2023-09-02T17:08:42.754] [INFO] default - onHookStart: 1-2:hook-0-1
+[2023-09-02T17:08:42.754] [INFO] default - onHookEnd: 1-2:hook-0-1
+[2023-09-02T17:08:43.342] [INFO] default - onRunnerEnd: 1-2
+[2023-09-02T17:08:43.342] [INFO] default - Report Generation started
+[2023-09-02T17:08:43.343] [INFO] default - Included metrics for suite: 1-2 suite-0-0
+[2023-09-02T17:08:43.343] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:08:43.344] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-2.json
+[2023-09-02T17:08:43.366] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-2.json
+[2023-09-02T17:08:43.366] [INFO] default - Json Generation Completed
+[2023-09-02T17:08:43.366] [INFO] default - Report Generation completed
+[2023-09-02T17:08:43.480] [INFO] default - Report Aggregation started
+[2023-09-02T17:08:43.492] [INFO] default - Included metrics for suite: 0-2 suite-0-0
+[2023-09-02T17:08:43.493] [INFO] default - Included metrics for suite: 0-1 suite-0-0
+[2023-09-02T17:08:43.494] [INFO] default - Included metrics for suite: 0-0 suite-0-0
+[2023-09-02T17:08:43.495] [INFO] default - Included metrics for suite: 1-1 suite-0-0
+[2023-09-02T17:08:43.496] [INFO] default - Included metrics for suite: 1-0 suite-0-0
+[2023-09-02T17:08:43.497] [INFO] default - Included metrics for suite: 1-2 suite-0-0
+[2023-09-02T17:08:43.499] [INFO] default - Aggregated 6 specs, 6 suites, 
+[2023-09-02T17:08:43.500] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\undefined-master-report.json
+[2023-09-02T17:08:43.548] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\undefined-master-report.json
+[2023-09-02T17:08:43.549] [INFO] default - Json Generation Completed
+[2023-09-02T17:08:43.551] [INFO] default - Html Generation started in C:\Work\Automation JS My course\WDIO_test\node_modules\wdio-html-nice-reporter
+[2023-09-02T17:08:43.591] [INFO] default - Html Generation Completed
+[2023-09-02T17:08:43.597] [INFO] default - copyied css : C:\Work\Automation JS My course\WDIO_test\node_modules\wdio-html-nice-reporter\css\ to C:\Work\Automation JS My course\WDIO_test\reports\html-reports\
+[2023-09-02T17:08:43.621] [INFO] default - browser launched
+[2023-09-02T17:08:43.621] [INFO] default - Report Aggregation completed
+[2023-09-02T17:09:01.510] [INFO] default - onRunnerStart: 0-1
+[2023-09-02T17:09:01.518] [INFO] default - onHookStart: 0-1:hook-0-0
+[2023-09-02T17:09:01.520] [INFO] default - onHookEnd: 0-1:hook-0-0
+[2023-09-02T17:09:01.521] [INFO] default - onSuiteStart: 0-1:suite-0-0
+[2023-09-02T17:09:01.523] [INFO] default - onTestStart: 0-1:test-00-0
+[2023-09-02T17:09:01.609] [INFO] default - onRunnerStart: 0-0
+[2023-09-02T17:09:01.622] [INFO] default - onHookStart: 0-0:hook-0-0
+[2023-09-02T17:09:01.624] [INFO] default - onHookEnd: 0-0:hook-0-0
+[2023-09-02T17:09:01.626] [INFO] default - onSuiteStart: 0-0:suite-0-0
+[2023-09-02T17:09:01.630] [INFO] default - onTestStart: 0-0:test-00-0
+[2023-09-02T17:09:02.978] [INFO] default - onRunnerStart: 0-2
+[2023-09-02T17:09:02.985] [INFO] default - onHookStart: 0-2:hook-0-0
+[2023-09-02T17:09:02.987] [INFO] default - onHookEnd: 0-2:hook-0-0
+[2023-09-02T17:09:02.988] [INFO] default - onSuiteStart: 0-2:suite-0-0
+[2023-09-02T17:09:02.989] [INFO] default - onTestStart: 0-2:test-00-0
+[2023-09-02T17:09:05.168] [INFO] default - onTestPass: 0-0:test-00-0
+[2023-09-02T17:09:05.169] [INFO] default - onTestEnd: 0-0:test-00-0
+[2023-09-02T17:09:05.174] [INFO] default - onTestStart: 0-0:test-00-1
+[2023-09-02T17:09:05.329] [INFO] default - onTestPass: 0-1:test-00-0
+[2023-09-02T17:09:05.331] [INFO] default - onTestEnd: 0-1:test-00-0
+[2023-09-02T17:09:05.337] [INFO] default - onTestStart: 0-1:test-00-1
+[2023-09-02T17:09:06.126] [INFO] default - onRunnerStart: 1-2
+[2023-09-02T17:09:06.143] [INFO] default - onHookStart: 1-2:hook-0-0
+[2023-09-02T17:09:06.148] [INFO] default - onHookEnd: 1-2:hook-0-0
+[2023-09-02T17:09:06.150] [INFO] default - onSuiteStart: 1-2:suite-0-0
+[2023-09-02T17:09:06.152] [INFO] default - onTestStart: 1-2:test-00-0
+[2023-09-02T17:09:06.301] [INFO] default - onTestPass: 0-2:test-00-0
+[2023-09-02T17:09:06.302] [INFO] default - onTestEnd: 0-2:test-00-0
+[2023-09-02T17:09:06.309] [INFO] default - onTestStart: 0-2:test-00-1
+[2023-09-02T17:09:06.594] [INFO] default - onRunnerStart: 1-0
+[2023-09-02T17:09:06.614] [INFO] default - onHookStart: 1-0:hook-0-0
+[2023-09-02T17:09:06.621] [INFO] default - onHookEnd: 1-0:hook-0-0
+[2023-09-02T17:09:06.622] [INFO] default - onSuiteStart: 1-0:suite-0-0
+[2023-09-02T17:09:06.626] [INFO] default - onTestStart: 1-0:test-00-0
+[2023-09-02T17:09:06.655] [INFO] default - onRunnerStart: 1-1
+[2023-09-02T17:09:06.670] [INFO] default - onHookStart: 1-1:hook-0-0
+[2023-09-02T17:09:06.673] [INFO] default - onHookEnd: 1-1:hook-0-0
+[2023-09-02T17:09:06.675] [INFO] default - onSuiteStart: 1-1:suite-0-0
+[2023-09-02T17:09:06.678] [INFO] default - onTestStart: 1-1:test-00-0
+[2023-09-02T17:09:09.028] [INFO] default - onTestPass: 1-1:test-00-0
+[2023-09-02T17:09:09.029] [INFO] default - onTestEnd: 1-1:test-00-0
+[2023-09-02T17:09:09.031] [INFO] default - onTestStart: 1-1:test-00-1
+[2023-09-02T17:09:09.221] [INFO] default - onTestPass: 1-0:test-00-0
+[2023-09-02T17:09:09.223] [INFO] default - onTestEnd: 1-0:test-00-0
+[2023-09-02T17:09:09.225] [INFO] default - onTestStart: 1-0:test-00-1
+[2023-09-02T17:09:09.558] [INFO] default - onTestPass: 0-1:test-00-1
+[2023-09-02T17:09:09.560] [INFO] default - onTestEnd: 0-1:test-00-1
+[2023-09-02T17:09:09.563] [INFO] default - onSuiteEnd: 0-1:suite-0-0
+[2023-09-02T17:09:09.564] [INFO] default - onHookStart: 0-1:hook-0-1
+[2023-09-02T17:09:09.564] [INFO] default - onHookEnd: 0-1:hook-0-1
+[2023-09-02T17:09:09.642] [INFO] default - onTestPass: 0-0:test-00-1
+[2023-09-02T17:09:09.643] [INFO] default - onTestEnd: 0-0:test-00-1
+[2023-09-02T17:09:09.648] [INFO] default - onSuiteEnd: 0-0:suite-0-0
+[2023-09-02T17:09:09.650] [INFO] default - onHookStart: 0-0:hook-0-1
+[2023-09-02T17:09:09.651] [INFO] default - onHookEnd: 0-0:hook-0-1
+[2023-09-02T17:09:09.729] [INFO] default - onTestPass: 1-2:test-00-0
+[2023-09-02T17:09:09.733] [INFO] default - onTestEnd: 1-2:test-00-0
+[2023-09-02T17:09:09.740] [INFO] default - onTestStart: 1-2:test-00-1
+[2023-09-02T17:09:09.817] [INFO] default - onRunnerEnd: 0-1
+[2023-09-02T17:09:09.819] [INFO] default - Report Generation started
+[2023-09-02T17:09:09.819] [INFO] default - Included metrics for suite: 0-1 suite-0-0
+[2023-09-02T17:09:09.822] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:09:09.823] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-1.json
+[2023-09-02T17:09:09.864] [INFO] default - onTestPass: 0-2:test-00-1
+[2023-09-02T17:09:09.866] [INFO] default - onTestEnd: 0-2:test-00-1
+[2023-09-02T17:09:09.868] [INFO] default - onSuiteEnd: 0-2:suite-0-0
+[2023-09-02T17:09:09.869] [INFO] default - onHookStart: 0-2:hook-0-1
+[2023-09-02T17:09:09.869] [INFO] default - onHookEnd: 0-2:hook-0-1
+[2023-09-02T17:09:09.921] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-1.json
+[2023-09-02T17:09:09.922] [INFO] default - Json Generation Completed
+[2023-09-02T17:09:09.922] [INFO] default - Report Generation completed
+[2023-09-02T17:09:09.959] [INFO] default - onRunnerEnd: 0-2
+[2023-09-02T17:09:09.960] [INFO] default - Report Generation started
+[2023-09-02T17:09:09.962] [INFO] default - Included metrics for suite: 0-2 suite-0-0
+[2023-09-02T17:09:09.966] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:09:09.967] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-2.json
+[2023-09-02T17:09:09.990] [INFO] default - onRunnerEnd: 0-0
+[2023-09-02T17:09:09.991] [INFO] default - Report Generation started
+[2023-09-02T17:09:09.992] [INFO] default - Included metrics for suite: 0-0 suite-0-0
+[2023-09-02T17:09:09.996] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:09:09.997] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-0.json
+[2023-09-02T17:09:10.066] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-2.json
+[2023-09-02T17:09:10.067] [INFO] default - Json Generation Completed
+[2023-09-02T17:09:10.067] [INFO] default - Report Generation completed
+[2023-09-02T17:09:10.090] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-0-0.json
+[2023-09-02T17:09:10.090] [INFO] default - Json Generation Completed
+[2023-09-02T17:09:10.091] [INFO] default - Report Generation completed
+[2023-09-02T17:09:11.866] [INFO] default - onTestPass: 1-1:test-00-1
+[2023-09-02T17:09:11.866] [INFO] default - onTestEnd: 1-1:test-00-1
+[2023-09-02T17:09:11.866] [INFO] default - onSuiteEnd: 1-1:suite-0-0
+[2023-09-02T17:09:11.867] [INFO] default - onHookStart: 1-1:hook-0-1
+[2023-09-02T17:09:11.867] [INFO] default - onHookEnd: 1-1:hook-0-1
+[2023-09-02T17:09:12.048] [INFO] default - onTestPass: 1-0:test-00-1
+[2023-09-02T17:09:12.049] [INFO] default - onTestEnd: 1-0:test-00-1
+[2023-09-02T17:09:12.049] [INFO] default - onSuiteEnd: 1-0:suite-0-0
+[2023-09-02T17:09:12.050] [INFO] default - onHookStart: 1-0:hook-0-1
+[2023-09-02T17:09:12.050] [INFO] default - onHookEnd: 1-0:hook-0-1
+[2023-09-02T17:09:12.598] [INFO] default - onRunnerEnd: 1-1
+[2023-09-02T17:09:12.599] [INFO] default - Report Generation started
+[2023-09-02T17:09:12.600] [INFO] default - Included metrics for suite: 1-1 suite-0-0
+[2023-09-02T17:09:12.602] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:09:12.602] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-1.json
+[2023-09-02T17:09:12.665] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-1.json
+[2023-09-02T17:09:12.665] [INFO] default - Json Generation Completed
+[2023-09-02T17:09:12.665] [INFO] default - Report Generation completed
+[2023-09-02T17:09:12.701] [INFO] default - onTestPass: 1-2:test-00-1
+[2023-09-02T17:09:12.702] [INFO] default - onTestEnd: 1-2:test-00-1
+[2023-09-02T17:09:12.703] [INFO] default - onSuiteEnd: 1-2:suite-0-0
+[2023-09-02T17:09:12.704] [INFO] default - onHookStart: 1-2:hook-0-1
+[2023-09-02T17:09:12.704] [INFO] default - onHookEnd: 1-2:hook-0-1
+[2023-09-02T17:09:13.012] [INFO] default - onRunnerEnd: 1-0
+[2023-09-02T17:09:13.013] [INFO] default - Report Generation started
+[2023-09-02T17:09:13.013] [INFO] default - Included metrics for suite: 1-0 suite-0-0
+[2023-09-02T17:09:13.014] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:09:13.015] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-0.json
+[2023-09-02T17:09:13.056] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-0.json
+[2023-09-02T17:09:13.057] [INFO] default - Json Generation Completed
+[2023-09-02T17:09:13.057] [INFO] default - Report Generation completed
+[2023-09-02T17:09:13.695] [INFO] default - onRunnerEnd: 1-2
+[2023-09-02T17:09:13.696] [INFO] default - Report Generation started
+[2023-09-02T17:09:13.696] [INFO] default - Included metrics for suite: 1-2 suite-0-0
+[2023-09-02T17:09:13.697] [INFO] default - Generated 1 specs, 1 suites, 
+[2023-09-02T17:09:13.698] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-2.json
+[2023-09-02T17:09:13.732] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\report-1-2.json
+[2023-09-02T17:09:13.732] [INFO] default - Json Generation Completed
+[2023-09-02T17:09:13.732] [INFO] default - Report Generation completed
+[2023-09-02T17:09:13.824] [INFO] default - Report Aggregation started
+[2023-09-02T17:09:13.833] [INFO] default - Included metrics for suite: 0-1 suite-0-0
+[2023-09-02T17:09:13.833] [INFO] default - Included metrics for suite: 0-0 suite-0-0
+[2023-09-02T17:09:13.834] [INFO] default - Included metrics for suite: 0-2 suite-0-0
+[2023-09-02T17:09:13.834] [INFO] default - Included metrics for suite: 1-2 suite-0-0
+[2023-09-02T17:09:13.835] [INFO] default - Included metrics for suite: 1-0 suite-0-0
+[2023-09-02T17:09:13.836] [INFO] default - Included metrics for suite: 1-1 suite-0-0
+[2023-09-02T17:09:13.837] [INFO] default - Aggregated 6 specs, 6 suites, 
+[2023-09-02T17:09:13.838] [INFO] default - Json report write starting: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\undefined-master-report.json
+[2023-09-02T17:09:13.912] [INFO] default - Json write completed: C:\Work\Automation JS My course\WDIO_test\reports\html-reports\undefined-master-report.json
+[2023-09-02T17:09:13.913] [INFO] default - Json Generation Completed
+[2023-09-02T17:09:13.914] [INFO] default - Html Generation started in C:\Work\Automation JS My course\WDIO_test\node_modules\wdio-html-nice-reporter
+[2023-09-02T17:09:13.955] [INFO] default - Html Generation Completed
+[2023-09-02T17:09:13.964] [INFO] default - copyied css : C:\Work\Automation JS My course\WDIO_test\node_modules\wdio-html-nice-reporter\css\ to C:\Work\Automation JS My course\WDIO_test\reports\html-reports\
+[2023-09-02T17:09:13.996] [INFO] default - browser launched
+[2023-09-02T17:09:13.996] [INFO] default - Report Aggregation completed
